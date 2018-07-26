@@ -8,5 +8,9 @@
     <string name="action_share">Share</string>
 
     <string name="up">Up</string>
+    <string name="books_image">Books image</string>
+    <string name="next">Next</string>
+    <string name="the_end">The End!</string>
+    <string name="error_loading_text">Error with loading the text, please try again!</string>
 
 </resources>
